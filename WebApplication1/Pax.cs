@@ -9,5 +9,6 @@ namespace WebApplication1
     {
         public string Age { get; set; }
         public string Address { get; set; }
+        public string city { get; set; }
     }
 }
